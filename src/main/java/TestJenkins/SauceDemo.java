@@ -5,7 +5,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
+@Test
 public class SauceDemo {
     //le point à partir duquel le programme démarre son exécution
     public static void main(String[] args) {
