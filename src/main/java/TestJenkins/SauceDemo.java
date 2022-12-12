@@ -7,9 +7,11 @@ import org.openqa.selenium.Point;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-@Test
+
 public class SauceDemo {
     //le point à partir duquel le programme démarre son exécution
+
+    @Test
     public static void main(String[] args) {
 
 
