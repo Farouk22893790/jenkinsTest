@@ -80,7 +80,7 @@ public class Achat1 extends Tunisia_NET {
         pass_word.executeScript("arguments[0].value='12345';", pass);
 
         // attendre 2 seconds
-        Thread.sleep(2000);
+        Thread.sleep(4000);
 
         //Click sur le  button continuer //button[@class="continue btn btn-primary float-xs-right"]
 
